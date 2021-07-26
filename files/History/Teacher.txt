@@ -1,0 +1,7 @@
+===========Teacher Information==========
+Teacher name:p
+Teaching Subject: a
+Mobile Number: 5
+Address: d
+ID: 10001
+Salary: 100
